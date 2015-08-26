@@ -1,0 +1,89 @@
+#+TITLE: Jegyzőkönyv
+#+DATE: <2015-08-26 sze>
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@barackalma.csengery
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil c:nil creator:comment d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 24.4.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: hu
+#+SELECT_TAGS: export
+
+amely a Csengery u. 7. társasház 2015. augusztus 25-i közgyűlésről
+készült. A közgyűlésen jelen voltak: Bendly Zsoltné, Horváth András,
+Kalicz Péter, Knábel Péter. Hegymegi Tünde kimentését kérte
+elfoglaltsága miatt.
+
+A közgyűlés elején Kalicz Péter köszöntötte Knábel Pétert, aki a
+közgyűlést megelőző időszakban költözött be, s közben már mindenkivel
+megismerkedett.
+Ismertette a ház költségvetésének
+állását, a bevételek és kiadások alakulását. A kiadásokban a két
+legnagyobb tétel a biztosítás és a szemétdíj.
+
+* Ajtó felújítás
+A közgyűlés elsődleges célja, hogy a korábban kifüggesztett
+~portas.co.hu~ mosonmagyaróvári szaküzeme által készített ajánlatot
+újra átbeszéljük.  Az eredetileg 2 m-es ajtóra készült ajánlat várható
+növekedése és a rámpa költsége a számolgatás alapján közel az eddig
+összegyűlt elvinné.  Horváth András felhívta a figyelmet a
+széthullóban lévő, veszélyes, alig záródó ablakokra. Bendly Zsoltné
+úgy érezve, mindenki a javaslata ellen van elhagyta a közgyűlést. A
+közgyűlésen maradók egyetértettek, hogy a társasház megtakarítását nem
+kellene teljes egészében elkölteni, egy váratlan kiadást saját sebből
+megfinanszírozni. Az ajtó felújítására több lehetőséget meg kellene
+vizsgálni, a meglévő árajánlatot pontosítani, amelyet akár további
+tartalék gyűjtése után ebben a formában meg is valósíthatunk.
+
+* "Otthon melege" pályázat
+Knábel Péter felvetette, hogy a nyílászárók cseréjéhez fel kellene
+használni pályázati forrást.  Hírdetési újságban látott "Otthon
+melege" programban van lehetőség társasházaknak pályázni.
+Akár 30-40%-os támogatást is elérhetünk. A pályázatnak utánanéznek
+Knábel Péter és Kalicz Péter.
+
+* Kuka
+Horváth András felvetette, a kis kuka lecserélését egy nagyobbra.
+Mindenki egyetértett, hogy sokszor nem fér be a társasház a
+rendelkezésre álló térfogatba, de a szemétszállítás díja az egyik
+legnagyobb kiadás.  Kalicz Péter felvetette, hogy a sokszor összetaposás
+nélkül kukába kerülő pille palackok és a vissza nem váltható üvegek
+s ezek nagy térfogatot elfoglalnak. Javaslatként felvetette, hogy a
+társasház igényeljen szelektív kukákat, ami a kukatérfogat növelésének
+egy olcsóbb alternatívája. A jelenlévők egyetértettek, hogy meg kell
+vizsgálni a két lehetőséget.
+
+Kalicz Péter vállalta, hogy utánajár és egyeztet Hegymegi Tündével,
+aki a STKH felé képviseli a társasházat.
+
+* Ablak javítása biztosításra
+A korábban említett lépcsőházi ablakot a ház biztosításának terhére
+még a tél beállta előtt ki kellene javíttatni. Knábel Péter vállalta,
+hogy a nálluk dogozott üvegesnél utánakérdez.
+
+A leromlott állapotú nyílászárók cseréjére szükség lenne, mindenkinek
+jelentkezne a fűtés számláján, ha a lépcsőház felé kevesebb meleg távozna.
+A ház hátsó homlokzat felújításának első lépése lenne a nyílászárók
+későbbi cseréje.
+
+* Villany és csatorna hálózat
+Kalicz Péter újra felhozta a rossz állapotba lévő villanyhálózat
+felújításának szükségességét. Egy komolyabb üzemzavar mindenkit
+érinthet.  A csatorna hálózat a nyáron bekövetkezett dugulás
+elhárítását végző szakember szerint rossz állapotban van. Kalicz Péter
+pincéjében több helyen beszakadt a talaj a csatorna fölött. Vélhetően
+a tönkrement csatorna elemek között mosódik be a föld, ami akár
+dugulást is okozhat.
+
+* Közös költség emelés
+A ház utoljára 2012-ben emelt közös költséget, még a gáz hálózat kényszerű
+felújítása előtt. A tervezett nagyobb beruházások miatt is szükség lenne
+emelésre, amit a közgyűlésen részt nem vett lakókkal történő egyeztetés
+után határozunk meg. Az egyeztetést Kalicz Péter vállalta.
+
+Kalicz Péter vállalta a közgyűlésről a jegyzőkönyv elkészítését, a többi
+lakó tájékoztatását.
